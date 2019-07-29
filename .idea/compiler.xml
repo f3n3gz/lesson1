@@ -4,6 +4,7 @@
     <bytecodeTargetLevel>
       <module name="annotationConfig" target="1.5" />
       <module name="javaConfig" target="1.5" />
+      <module name="lesson1" target="1.5" />
       <module name="xmlConfig" target="1.5" />
     </bytecodeTargetLevel>
   </component>

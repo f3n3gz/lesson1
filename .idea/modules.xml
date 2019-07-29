@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/annotationConfig/annotationConfig.iml" filepath="$PROJECT_DIR$/annotationConfig/annotationConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaConfig/javaConfig.iml" filepath="$PROJECT_DIR$/javaConfig/javaConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1.iml" filepath="$PROJECT_DIR$/lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlConfig/xmlConfig.iml" filepath="$PROJECT_DIR$/xmlConfig/xmlConfig.iml" />
+    </modules>
+  </component>
+</project>
